@@ -24,7 +24,8 @@ public class QuanLyHoaDon{
     //    HangHoa array[];
     
     
-    public QuanLyHoaDon() {}
+    public QuanLyHoaDon() {
+    }
     
     public void SetListHD(ArrayList list)
     {
